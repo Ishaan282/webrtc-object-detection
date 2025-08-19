@@ -1,0 +1,18 @@
+{
+    "system_info": {
+      "mode": "wasm",
+      "duration_seconds": 30,
+      "total_frames_processed": 312
+    },
+    "performance_metrics": {
+      "median_latency_ms": 142,
+      "p95_latency_ms": 210,
+      "processed_fps": 12.5,
+      "network": {
+        "uplink_kbps": 380,
+        "downlink_kbps": 150
+      }
+    },
+    "timestamps_file": "/tmp/tmp.xyz123",
+    "collected_at": "2024-01-20T14:30:00Z"
+  }
